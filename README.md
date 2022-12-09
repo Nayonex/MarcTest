@@ -1,4 +1,4 @@
-# Flappy Learning ([Demo](http://nayonex.github.io/FlappyLearning/))
+# Flappy Learning ([Demo](http://nayonex.github.io))
 
 Program that learns to play Flappy Bird by machine learning ([Neuroevolution](http://www.scholarpedia.org/article/Neuroevolution))
 
