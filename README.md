@@ -2,7 +2,7 @@
 
 Program that learns to play Flappy Bird by machine learning ([Neuroevolution](http://www.scholarpedia.org/article/Neuroevolution))
 
-![alt tag]([https://github.com/Nayonex/MarcTest/img/](https://github.com/Nayonex/MarcTest/tree/main/img/flappy.png?raw=true)
+![alt tag]([https://github.com/Nayonex/MarcTest/img/](https://github.com/Nayonex/MarcTest/main/img/flappy.png?raw=true)
 
 ### [NeuroEvolution.js](https://github.com/Nayonex/MarcTest/blob/main/Neuroevolution.js) : Utilization
 ```javascript
