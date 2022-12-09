@@ -2,9 +2,9 @@
 
 Program that learns to play Flappy Bird by machine learning ([Neuroevolution](http://www.scholarpedia.org/article/Neuroevolution))
 
-![alt tag](https://github.com/Nayonex/MarcTest/img/flappy.png?raw=true)
+![alt tag]([https://github.com/Nayonex/MarcTest/img/](https://github.com/Nayonex/MarcTest/tree/main/img/flappy.png?raw=true)
 
-### [NeuroEvolution.js](http://github.com/Nayonex/MarcTest/Neuroevolution.js) : Utilization
+### [NeuroEvolution.js](https://github.com/Nayonex/MarcTest/blob/main/Neuroevolution.js) : Utilization
 ```javascript
 // Initialize
 var ne = new Neuroevolution({options});
@@ -33,4 +33,4 @@ var generation = ne.nextGeneration();
 ne.networkScore(generation[x], <score = 0>);
 ```
 
-You can see the NeuroEvolution integration in Flappy Bird in [Game.js](http://github.com/Nayonex/MarcTest/game.js).
+You can see the NeuroEvolution integration in Flappy Bird in [Game.js](https://github.com/Nayonex/MarcTest/blob/main/game.js).
